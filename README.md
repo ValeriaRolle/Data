@@ -1,2 +1,2 @@
 # Data
-Fake data
+Simulated data. Work in progress.
