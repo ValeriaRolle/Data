@@ -1,0 +1,301 @@
+Sexo;Edad;Estudios;Fumador;Altura;Peso;IMC;Obsesidad;Cintura;Colesterol;Diabetes
+1;71;Secondary school;Nunca;169;65;22,8;no;83;2;0
+1;66;Primary school;Exfumador;173;69;23,1;no;83;2;0
+1;56;Secondary school;Fumador;170;68;23,5;no;83;2;0
+1;72;Secondary school;Exfumador;163;64;24,1;no;83;2;0
+1;57;Secondary school;Nunca;178;78;24,6;no;83,3;2;0
+1;67;University;Exfumador;175;62;20,2;no;84;1;0
+1;59;Secondary school;Fumador;169;60;21;no;84;1;0
+1;75;Less than primary school;Nunca;158;53;21,2;no;84;2;0
+1;60;Primary school;Fumador;168;61;21,6;no;84;2;0
+1;62;University;Nunca;180;72;22,2;no;84;2;0
+1;82;Secondary school;Nunca;169;64;22,4;no;84;1;0
+1;77;University;Nunca;174;68;22,5;no;84;1;0
+1;64;Secondary school;Nunca;180;75;23,1;no;84;2;0
+1;64;Secondary school;Fumador;170;67;23,2;no;84;2;0
+1;78;Primary school;Nunca;164;63;23,4;no;84;2;0
+1;54;Primary school;Exfumador;158;65;26;no;84;2;0
+1;82;Primary school;Exfumador;172;67;22,6;no;84,7;2;0
+1;79;Primary school;Exfumador;164;53;19,7;no;85;1;1
+1;80;University;Nunca;168;56;19,8;no;85;1;0
+1;69;Secondary school;Fumador;170;61;21,1;no;85;2;0
+1;61;University;Nunca;185;75;21,9;no;85;2;0
+1;84;Less than primary school;Exfumador;165;60;22;no;85;1;0
+1;60;Primary school;Fumador;166;61;22,1;no;85;2;0
+1;84;Primary school;Nunca;166;61;22,1;no;85;2;0
+1;57;Secondary school;Fumador;174;68;22,5;no;85;2;0
+1;70;Secondary school;Fumador;170;65;22,5;no;85;2;0
+1;65;Primary school;Exfumador;174;70;23,1;no;85;2;0
+1;55;University;Exfumador;162;61;23,2;no;85;2;0
+1;61;Primary school;Fumador;159;59;23,3;no;85;1;0
+1;64;Primary school;Nunca;159;60;23,7;no;85;2;0
+1;72;Secondary school;Exfumador;166;67;24,3;no;85;1;0
+1;61;University;Exfumador;161;64;24,7;no;85;2;0
+1;66;Primary school;Nunca;162;65;24,8;no;85;1;0
+1;57;Primary school;Nunca;172;74;25;no;85;2;0
+1;78;Primary school;Nunca;167;70;25,1;no;85;1;0
+1;50;Primary school;Nunca;166;71;25,8;no;85;1;0
+1;70;Secondary school;Nunca;178;59;18,6;no;86;1;1
+1;70;Secondary school;Exfumador;169;59;20,7;no;86;2;0
+1;78;Less than primary school;Exfumador;159;53;21;no;86;1;0
+1;65;Secondary school;Nunca;170;63;21,8;no;86;2;0
+1;62;Primary school;Nunca;170;65;22,5;no;86;2;0
+1;61;Secondary school;Exfumador;168;64;22,7;no;86;2;0
+1;78;Less than primary school;Exfumador;154;54;22,8;no;86;2;0
+1;63;Primary school;Exfumador;162;60;22,9;no;86;1;1
+1;61;University;Exfumador;170;67;23,2;no;86;2;0
+1;81;Primary school;Exfumador;160;61;23,8;no;86;2;0
+1;62;University;Fumador;164;65;24,2;no;86;2;1
+1;66;University;Exfumador;170;70;24,2;no;86;1;0
+1;56;Secondary school;Fumador;158;61;24,4;no;86;2;0
+1;71;Primary school;Nunca;170;71;24,6;no;86;2;0
+1;67;Secondary school;Fumador;167;69;24,7;no;86;2;0
+1;65;Primary school;Nunca;167;72;25,8;no;86;1;0
+1;63;Secondary school;Exfumador;164;70;26;no;86;1;0
+1;66;Primary school;Nunca;164;73;27,1;no;86;1;0
+1;63;Primary school;Fumador;163;73;27,5;no;86;1;0
+1;78;Primary school;Nunca;170;58;20,1;no;87;2;0
+1;76;Primary school;Nunca;175;62;20,2;no;87;2;0
+1;70;University;Fumador;169;64;22,4;no;87;1;0
+1;74;Primary school;Exfumador;157;56;22,7;no;87;2;0
+1;66;University;Nunca;166;64;23,2;no;87;2;0
+1;54;Secondary school;Nunca;172;69;23,3;no;87;2;0
+1;75;Primary school;Exfumador;160;60;23,4;no;87;2;0
+1;75;Less than primary school;Fumador;165;65;23,9;no;87;1;0
+1;58;University;Nunca;175;74;24,2;no;87;1;0
+1;81;Primary school;Exfumador;166;67;24,3;no;87;2;0
+1;63;Secondary school;Exfumador;176;76;24,5;no;87;2;0
+1;54;Primary school;Fumador;174;76;25,1;no;87;1;0
+1;85;Primary school;Exfumador;165;72;26,4;no;87;2;0
+1;79;Less than primary school;Exfumador;150;64;28,4;no;87;2;0
+1;68;Secondary school;Exfumador;170;68;23,5;no;87,5;1;0
+1;57;University;Exfumador;176;60;19,4;no;88;2;0
+1;65;Less than primary school;Fumador;173;61;20,4;no;88;1;0
+1;57;Secondary school;Exfumador;180;68;21;no;88;1;0
+1;67;Primary school;Exfumador;161;55;21,2;no;88;1;1
+1;78;University;Exfumador;166;59;21,4;no;88;1;1
+1;61;Secondary school;Fumador;166;61;22,1;no;88;2;1
+1;64;Less than primary school;Fumador;167;64;22,9;no;88;2;1
+1;51;Secondary school;Fumador;172;68;23;no;88;2;0
+1;77;Primary school;Exfumador;162;61;23,2;no;88;1;0
+1;52;Secondary school;Exfumador;180;76;23,5;no;88;1;0
+1;56;University;Nunca;174;71;23,5;no;88;2;0
+1;61;Primary school;Nunca;165;64;23,5;no;88;2;0
+1;65;Primary school;Exfumador;175;72;23,5;no;88;2;0
+1;66;Primary school;Fumador;168;67;23,7;no;88;1;0
+1;63;University;Nunca;174;72;23,8;no;88;2;0
+1;76;Less than primary school;Exfumador;170;69;23,9;no;88;1;0
+1;65;Secondary school;Exfumador;172;72;24,3;no;88;2;1
+1;71;Secondary school;Nunca;172;72;24,3;no;88;2;0
+1;77;Less than primary school;Nunca;171;71;24,3;no;88;1;0
+1;67;Primary school;Exfumador;170;71;24,6;no;88;2;1
+1;77;Primary school;Nunca;170;76;26,3;no;88;2;0
+1;64;Secondary school;Fumador;160;68;26,6;no;88;1;0
+1;65;Primary school;Nunca;164;72;26,8;no;88;2;0
+1;70;Secondary school;Exfumador;171;72;24,6;no;88,5;1;0
+1;76;Primary school;Fumador;175;73;23,8;no;88,7;2;0
+1;56;Secondary school;Fumador;175;62;20,2;no;89;2;1
+1;60;Primary school;Fumador;180;68;21;no;89;2;1
+1;79;Secondary school;Nunca;174;64;21,1;no;89;2;0
+1;68;Secondary school;Exfumador;175;66;21,6;no;89;2;0
+1;70;Primary school;Nunca;164;60;22,3;no;89;2;0
+1;80;Primary school;Nunca;160;58;22,7;no;89;1;0
+1;62;University;Nunca;177;72;23;no;89;2;0
+1;68;Secondary school;Nunca;177;72;23;no;89;1;0
+1;70;Primary school;Nunca;176;72;23,2;no;89;1;1
+1;82;University;Exfumador;173;70;23,4;no;89;2;0
+1;64;Primary school;Fumador;169;69;24,2;no;89;2;0
+1;79;Primary school;Exfumador;169;69;24,2;no;89;2;0
+1;79;Secondary school;Exfumador;171;71;24,3;no;89;2;0
+1;61;University;Exfumador;174;74;24,4;no;89;1;0
+1;74;Primary school;Exfumador;162;64;24,4;no;89;2;0
+1;66;Secondary school;Exfumador;178;72;22,7;no;98;2;0
+1;66;Less than primary school;Nunca;167;64;22,9;no;98;2;0
+1;68;Primary school;Exfumador;168;67;23,7;no;98;1;0
+1;57;University;Exfumador;181;78;23,8;no;98;2;0
+1;60;Primary school;Exfumador;181;79;24,1;no;98;1;0
+1;61;University;Fumador;182;80;24,2;no;98;2;0
+1;56;University;Exfumador;173;73;24,4;no;98;2;0
+1;69;University;Exfumador;168;69;24,4;no;98;1;1
+1;70;Less than primary school;Fumador;173;73;24,4;no;98;2;0
+1;61;University;Fumador;175;75;24,5;no;98;1;1
+1;80;Less than primary school;Nunca;175;75;24,5;no;98;2;0
+1;68;University;Exfumador;170;71;24,6;no;98;1;0
+1;73;Less than primary school;Exfumador;170;71;24,6;no;98;1;0
+1;51;University;Nunca;168;70;24,8;no;98;1;0
+1;65;Less than primary school;Nunca;162;65;24,8;no;98;2;0
+1;68;Primary school;Fumador;175;76;24,8;no;98;2;0
+1;69;Less than primary school;Nunca;158;62;24,8;no;98;2;1
+1;68;Primary school;Fumador;164;67;24,9;no;98;1;0
+1;65;Less than primary school;Exfumador;165;68;25;no;98;2;0
+1;67;Primary school;Exfumador;178;80;25,2;no;98;2;0
+1;82;Less than primary school;Exfumador;166;70;25,4;no;98;2;0
+1;71;University;Exfumador;170;74;25,6;no;98;1;1
+1;70;Less than primary school;Nunca;165;70;25,7;no;98;1;0
+1;61;Primary school;Nunca;162;68;25,9;no;98;2;0
+1;65;Secondary school;Fumador;156;63;25,9;no;98;1;1
+1;68;University;Exfumador;163;69;26;no;98;1;0
+1;65;Primary school;Fumador;166;72;26,1;no;98;1;0
+1;62;Secondary school;Exfumador;168;74;26,2;no;98;1;0
+1;60;Primary school;Exfumador;168;74;26,2;no;98;2;0
+1;66;Less than primary school;Exfumador;169;75;26,3;no;98;2;1
+1;63;Less than primary school;Exfumador;172;78;26,4;no;98;1;0
+1;64;Less than primary school;Nunca;157;65;26,4;no;98;2;0
+1;62;Primary school;Fumador;162;70;26,7;no;98;2;0
+1;62;University;Nunca;178;85;26,8;no;98;1;0
+1;69;Secondary school;Nunca;166;74;26,9;no;98;1;0
+1;55;Primary school;Fumador;172;80;27;no;98;2;0
+1;68;Secondary school;Exfumador;160;69;27;no;98;1;0
+1;59;Secondary school;Fumador;164;73;27,1;no;98;1;0
+1;63;Secondary school;Nunca;158;68;27,2;no;98;2;0
+1;79;University;Fumador;167;76;27,3;no;98;2;0
+1;60;Primary school;Exfumador;168;78;27,6;no;98;2;0
+1;65;Primary school;Exfumador;167;78;28;no;98;1;0
+1;82;Less than primary school;Exfumador;155;68;28,3;no;98;1;1
+1;50;Primary school;Exfumador;174;86;28,4;no;98;1;0
+1;55;Primary school;Nunca;171;83;28,4;no;98;1;0
+1;71;Primary school;Nunca;160;73;28,5;no;98;2;0
+1;54;University;Exfumador;165;78;28,7;no;98;1;0
+1;59;Secondary school;Fumador;168;81;28,7;no;98;2;0
+1;70;Primary school;Nunca;170;83;28,7;no;98;2;0
+1;80;Primary school;Exfumador;167;80;28,7;no;98;1;0
+1;63;University;Nunca;170;84;29,1;no;98;2;0
+1;63;Primary school;Exfumador;173;89;29,7;no;105;1;0
+1;65;Primary school;Nunca;165;81;29,8;no;105;2;0
+1;76;Primary school;Nunca;168;72;25,5;no;105,5;2;0
+1;73;Less than primary school;Exfumador;170;76;26,3;no;105,5;2;0
+1;74;Less than primary school;Nunca;170;83;28,7;no;105,5;2;1
+1;64;Secondary school;Exfumador;168;82;29,1;no;105,5;2;1
+1;74;Primary school;Exfumador;161;76;29,3;no;105,5;2;1
+1;80;University;Exfumador;179;94;29,3;no;105,5;1;1
+1;56;Secondary school;Nunca;172;84;28,4;no;105,7;2;0
+1;70;University;Fumador;172;69;23,3;no;106;2;0
+1;79;Less than primary school;Exfumador;177;77;24,6;no;106;1;1
+1;68;Secondary school;Nunca;180;80;24,7;no;106;2;0
+1;74;University;Fumador;174;76;25,1;no;106;1;1
+1;68;Primary school;Nunca;178;80;25,2;no;106;2;0
+1;67;University;Exfumador;173;76;25,4;no;106;1;0
+1;77;Primary school;Exfumador;180;84;25,9;no;106;1;0
+1;75;Secondary school;Fumador;168;74;26,2;no;106;2;1
+1;61;University;Exfumador;165;72;26,4;no;106;1;1
+1;80;Primary school;Exfumador;173;79;26,4;no;106;2;0
+1;51;Primary school;Nunca;180;86;26,5;no;106;1;0
+1;74;Primary school;Nunca;162;70;26,7;no;106;1;0
+1;62;Primary school;Exfumador;166;74;26,9;no;106;1;0
+1;66;Secondary school;Fumador;160;69;27;no;106;1;0
+1;67;Primary school;Exfumador;172;80;27;no;106;2;0
+1;75;Less than primary school;Nunca;170;78;27;no;106;2;0
+1;67;University;Exfumador;174;82;27,1;no;106;1;0
+1;75;Less than primary school;Nunca;174;82;27,1;no;106;1;1
+1;62;Primary school;Exfumador;184;92;27,2;no;106;2;0
+1;74;Primary school;Exfumador;165;74;27,2;no;106;2;0
+1;78;Less than primary school;Exfumador;180;88;27,2;no;106;2;0
+1;79;Less than primary school;Exfumador;165;75;27,5;no;106;1;0
+1;67;Secondary school;Exfumador;171;81;27,7;no;106;2;0
+1;73;Primary school;Exfumador;170;80;27,7;no;106;1;0
+1;76;University;Exfumador;171;81;27,7;no;106;1;0
+1;54;Less than primary school;Fumador;177;87;27,8;no;106;2;0
+1;71;Secondary school;Exfumador;166;77;27,9;no;106;1;0
+1;80;Primary school;Exfumador;169;80;28;no;106;2;1
+1;64;Secondary school;Fumador;180;91;28,1;no;106;2;0
+1;71;Primary school;Nunca;179;90;28,1;no;106;1;0
+1;71;Less than primary school;Nunca;176;87;28,1;no;106;2;0
+1;78;Less than primary school;Exfumador;160;72;28,1;no;106;2;0
+1;61;University;Exfumador;184;96;28,4;no;106;2;0
+1;63;Primary school;Nunca;172;85;28,7;no;106;1;0
+1;70;Primary school;Exfumador;165;78;28,7;no;106;1;0
+1;56;University;Exfumador;178;92;29;no;106;2;0
+1;68;University;Exfumador;167;81;29;no;106;2;0
+1;62;Primary school;Exfumador;168;82;29,1;no;106;2;0
+1;64;Secondary school;Nunca;169;84;29,4;no;106;2;0
+1;71;Primary school;Nunca;168;83;29,4;no;106;1;0
+1;63;Primary school;Nunca;170;86;29,8;no;106;2;0
+1;69;Primary school;Exfumador;162;75;28,6;no;106,3;2;0
+1;80;Secondary school;Exfumador;170;80;27,7;no;106,5;1;1
+1;71;Less than primary school;Nunca;160;72;28,1;no;106,7;1;1
+1;67;Secondary school;Nunca;177;72;23;no;107;1;0
+1;78;Less than primary school;Exfumador;171;72;24,6;no;107;1;1
+1;72;Secondary school;Nunca;180;81;25;no;107;1;0
+1;65;University;Fumador;170;74;25,6;no;107;2;1
+1;59;University;Fumador;187;90;25,7;no;107;2;0
+1;80;University;Exfumador;176;80;25,8;no;107;2;0
+1;72;Secondary school;Exfumador;179;84;26,2;no;107;2;1
+1;61;Primary school;Exfumador;165;72;26,4;no;107;2;0
+1;72;Primary school;Exfumador;164;72;26,8;no;107;1;1
+1;72;Secondary school;Exfumador;178;85;26,8;no;107;1;1
+1;76;Less than primary school;Fumador;169;77;27;no;107;1;1
+1;67;Primary school;Exfumador;166;75;27,2;no;107;2;0
+1;55;Secondary school;Exfumador;170;79;27,3;no;107;1;1
+1;76;Less than primary school;Fumador;169;78;27,3;no;107;2;1
+1;59;Primary school;Nunca;174;83;27,4;no;107;1;0
+1;64;Secondary school;Exfumador;176;85;27,4;no;107;1;0
+1;68;Less than primary school;Exfumador;175;84;27,4;no;107;2;1
+1;70;Less than primary school;Exfumador;163;73;27,5;no;107;1;0
+1;65;Primary school;Nunca;172;82;27,7;no;107;2;0
+1;71;Secondary school;Nunca;172;82;27,7;no;107;2;0
+1;75;Less than primary school;Exfumador;175;85;27,8;no;107;2;0
+1;79;University;Exfumador;179;90;28,1;no;107;2;0
+1;80;Secondary school;Exfumador;167;79;28,3;no;107;1;0
+1;52;Secondary school;Fumador;171;83;28,4;no;107;2;0
+1;61;Primary school;Exfumador;183;95;28,4;no;107;2;1
+1;64;Less than primary school;Fumador;159;72;28,5;no;107;1;0
+1;63;University;Fumador;176;89;28,7;no;107;2;0
+1;56;University;Nunca;185;100;29,2;no;107;2;0
+1;59;Primary school;Exfumador;170;85;29,4;no;107;1;0
+1;72;Less than primary school;Exfumador;167;82;29,4;no;107;2;0
+1;64;Primary school;Exfumador;163;79;29,7;no;107;1;0
+1;50;Secondary school;Exfumador;168;84;29,8;no;107;2;0
+1;66;Primary school;Fumador;170;86;29,8;no;107;2;0
+1;56;Secondary school;Exfumador;178;95;30;no;107;2;0
+1;73;Primary school;Exfumador;180;86;26,5;no;107,5;2;0
+1;67;Secondary school;Exfumador;168;82;29,1;no;107,5;1;0
+1;60;University;Exfumador;170;86;29,8;no;107,7;2;0
+1;77;Primary school;Exfumador;184;77;22,7;no;108;2;0
+1;66;Less than primary school;Exfumador;184;84;24,8;no;108;2;0
+1;64;University;Exfumador;180;85;26,2;no;108;2;0
+1;79;Primary school;Exfumador;165;73;26,8;no;108;2;0
+1;79;University;Nunca;177;84;26,8;no;108;2;1
+1;77;Primary school;Exfumador;170;79;27,3;no;108;2;1
+1;73;Secondary school;Nunca;178;87;27,5;no;108;1;1
+1;82;Less than primary school;Exfumador;164;74;27,5;no;108;2;1
+1;63;Primary school;Fumador;172;82;27,7;no;108;2;0
+1;68;Primary school;Fumador;175;85;27,8;no;108;2;1
+1;67;Secondary school;Fumador;165;76;27,9;no;108;2;0
+1;53;University;Nunca;187;99;28,3;no;108;2;0
+1;67;Secondary school;Exfumador;164;76;28,3;no;108;1;0
+1;83;Secondary school;Nunca;173;85;28,4;no;108;2;1
+1;64;Primary school;Exfumador;186;99;28,6;no;108;2;0
+1;63;Secondary school;Exfumador;167;80;28,7;no;108;2;0
+1;61;Primary school;Fumador;170;83;28,7;no;108;2;0
+1;71;Primary school;Exfumador;175;88;28,7;no;108;2;0
+1;76;Primary school;Fumador;168;81;28,7;no;108;1;1
+1;76;Primary school;Nunca;180;93;28,7;no;108;2;1
+1;83;University;Exfumador;166;79;28,7;no;108;1;0
+1;53;Primary school;Exfumador;174;88;29,1;no;108;2;0
+1;66;Primary school;Exfumador;163;78;29,4;no;108;2;0
+1;66;Secondary school;Fumador;172;87;29,4;no;108;2;0
+1;54;Primary school;Nunca;178;94;29,7;no;108;2;0
+1;70;Secondary school;Exfumador;163;79;29,7;no;108;2;1
+1;75;University;Nunca;166;70;25,4;no;108,5;2;0
+1;74;Less than primary school;Exfumador;169;78;27,3;no;108,5;1;0
+1;61;University;Nunca;184;94;27,8;no;108,5;1;0
+1;64;Secondary school;Exfumador;183;95;28,4;no;108,7;2;0
+1;70;Secondary school;Exfumador;179;77;24;no;109;1;0
+1;82;Less than primary school;Nunca;167;68;24,4;no;109;1;0
+1;85;Primary school;Nunca;175;75;24,5;no;109;2;0
+1;70;University;Exfumador;180;81;25;no;109;1;0
+1;71;University;Exfumador;175;77;25,1;no;109;1;1
+1;75;Secondary school;Fumador;171;74;25,3;no;109;2;0
+1;74;Secondary school;Exfumador;175;78;25,5;no;109;2;0
+1;61;University;Fumador;174;80;26,4;no;109;2;1
+1;65;Secondary school;Exfumador;179;88;27,5;no;109;1;1
+1;64;Primary school;Exfumador;184;95;28,1;no;109;2;0
+1;59;Primary school;Fumador;172;84;28,4;no;109;1;0
+1;56;Secondary school;Exfumador;172;84;28,4;no;109;1;0
+1;74;Primary school;Fumador;178;90;28,4;no;109;2;0
+1;65;Primary school;Exfumador;160;73;28,5;no;109;1;1
+1;57;Secondary school;Exfumador;178;91;28,7;no;109;2;0
+1;63;Primary school;Nunca;180;93;28,7;no;109;1;0
+1;77;Primary school;Fumador;170;83;28,7;no;109;2;0
+1;64;Secondary school;Exfumador;169;84;29,4;no;109;1;1
+1;66;University;Exfumador;165;80;29,4;no;109;2;0
