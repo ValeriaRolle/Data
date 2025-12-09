@@ -1,0 +1,7 @@
+group,sex,samples
+control,female,control_1
+control,male,control_2
+control,female,control_3
+tratado,male,tratado_1
+tratado,male,tratado_2
+tratado,female,tratado_3
